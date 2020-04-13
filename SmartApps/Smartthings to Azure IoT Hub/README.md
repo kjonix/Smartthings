@@ -9,3 +9,5 @@ Right click on your device and choose «Generate Code»  to get the URI. The URI
 Right click on you device and choose «Generate SAS token for device». The SAS token looks like this:
 «SharedAccessSignature sr=xxxx.azure-devices.net%2Fdevices%2FSmartthings&sig=xxxx&se=xxxxx»
 
+Thanks to Sam Cogan and Ben Crouse for your work on the Azure Event Hub SmartApp. 
+
