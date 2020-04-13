@@ -1,6 +1,6 @@
 **This Smartthings SmartApp requires basic knowledge about Azure IoT Hub.**
 
-I will here give some quick tip, not a installation guide.
+I will here give some quick tips, not an installation guide.
 
 After installing the SmartApp you need to enter Azure IoT Hub Uri and SAS token in the App Setting area. I recommend using Visual Studio Code with the IoT plugin to get these variabels. 
 
